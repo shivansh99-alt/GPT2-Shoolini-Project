@@ -1,2 +1,2 @@
 # GPT2-Shoolini-Project
-This project demonstrates fine-tuning a GPT-2 language model on a custom dataset related to Shoolini University. Using Hugging Face's Transformers library, we train a smaller GPT-2 model to generate coherent text responses based on university-specific content. It's a hands-on example of natural language processing (NLP) for domain adaptation.
+This project demonstrates pre-training a GPT-2 language model from scratch on a custom dataset related to Shoolini University. Using Hugging Face’s Transformers library, we train a small GPT-2 model without pretrained weights to learn university-specific vocabulary, style, and content. This process is an example of domain-specific language model pre-training for NLP applications.
